@@ -62,3 +62,7 @@ A proposta prioriza a **segurança de dados em conformidade com a LGPD**, inclui
 
 Com essa modernização, o INASP **fortalece sua comunicação institucional, amplia o alcance de suas atividades e oferece uma experiência digital de qualidade à comunidade**, consolidando-se como referência nacional em saúde psíquica.  
 
+# Mapa de Empatia – Modernização do INASP
+
+![Mapa de Empatia](https://github.com/seu-usuario/seu-repositorio/blob/main/mapa-empatia.png)
+
