@@ -64,5 +64,5 @@ Com essa modernização, o INASP **fortalece sua comunicação institucional, am
 
 # Mapa de Empatia – Modernização do INASP
 
-![Mapa de Empatia](https://github.com/seu-usuario/seu-repositorio/blob/main/mapa-empatia.png)
+
 
